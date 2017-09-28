@@ -1,4 +1,4 @@
-package com.mustafa.code;
+package com.stats.Code;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
